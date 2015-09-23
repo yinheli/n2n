@@ -25,6 +25,7 @@ build
 
 #c/c++
 *.o
+*.a
 version.c
 
 # common test file
