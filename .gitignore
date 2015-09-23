@@ -28,6 +28,10 @@ build
 *.a
 version.c
 
+*.dSYM
+edge
+supernode
+
 # common test file
 T.java
 t.java
