@@ -1,0 +1,41 @@
+.*
+
+!.keep
+
+# node
+node_modules
+vendor
+
+# logs
+*.log
+
+#idea, mac 
+.idea
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.class
+target
+out
+build
+
+# py
+*.pyc
+
+#c/c++
+*.o
+version.c
+
+# common test file
+T.java
+t.java
+T.groovy
+t.groovy
+
+# backup files
+projectFilesBackup
+
+#local files
+*.bak
+*.local
